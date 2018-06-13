@@ -2,6 +2,8 @@
  Train Schedule Styles
 */
 
+
+
 body {
     background: #ddd;
     color: #222;
@@ -11,7 +13,23 @@ body {
 
 }
 
-.container {
-   
-
+h1 {
+    text-transform: capitalize;
 }
+
+h1.site-title {
+    font-size: 3rem;
+    font-size: 48px;
+    line-height: 1.5;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+h2.site-title--sub {
+    font-size: 2rem;
+    font-size: 32px;
+    line-height: 1;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
